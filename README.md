@@ -2,6 +2,8 @@
 
 # Slider
 
+Um simples slider de imagens, feito seguindo esse tutorial do you tube: https://www.youtube.com/watch?v=1FSmHr934OI
+
 ## Índice
 
 - [Demonstração](#demonstração)
